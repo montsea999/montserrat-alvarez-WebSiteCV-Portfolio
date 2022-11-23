@@ -1,0 +1,48 @@
+body {
+  background-color: black;
+  color: aliceblue;
+}
+dt {
+  color: rgb(172, 177, 177);
+}
+dd {
+  color: rgb(131, 134, 134);
+}
+
+.miAvatar {
+  width: 5rem;
+  border: salmon solid 0.5px;
+  border-radius: 50%;
+  margin: 0;
+  padding: 0;
+}
+.social {
+  border-radius: 15%;
+  box-shadow: 0px 10px 10px black;
+}
+.conSombra {
+  box-shadow: 0px 15px 15px black;
+  border-radius: 1%;
+}
+
+.nav:focus {
+  color: red;
+}
+.titulo {
+  /*color: #f28f1b;*/
+  color: white;
+}
+.accordion {
+  background-color: black;
+}
+.foto {
+  border-radius: 15%;
+  box-shadow: 0px 10px 10px black;
+  margin-left: 25%;
+}
+img {
+  border-radius: 10px;
+}
+bred{
+  border-color: red solid 1px;
+}
